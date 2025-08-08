@@ -30,7 +30,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/tanmayy06/PRODIGY_DS_03
 Navigate to the project folder:
 
 bash
